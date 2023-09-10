@@ -75,7 +75,9 @@ We welcome contributions from the community to help make Postworld Paradox even 
 
 6. Your PR will be reviewed by project maintainers, and any necessary feedback will be provided.
 
-7. Once your PR is approved, it will be merged into the `main` branch, and your contribution will become part of the game.
+7. Once your PR is approved, it will be merged into the `experimental` branch, and your contribution will become part of the beta test programm.
+
+8. If no issues are found in the beta test, your contribution will be merged into the `main` branch
 
 ## License
 
