@@ -12,6 +12,7 @@ Welcome to the Postworld Paradox GitHub repository! This project is a postapocal
 2. [Game Overview](#game-overview)
 3. [Contributing](#contributing)
 4. [License](#license)
+5. [Contact](#contact)
 
 ## Getting Started
 
@@ -83,3 +84,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Thank you for your interest in Postworld Paradox! We look forward to your contributions and hope you enjoy working on this exciting postapocalyptic adventure. If you have any questions or need assistance, feel free to reach out to us in the GitHub repository's [Issues](https://github.com/Lietziboyy/postworld-paradox/issues) section. Happy gaming!
+
+## Contact
+If you have an issue with the game and were not responding on github, contact us on discord @skycrafter10 @lietziboy
+
+--
+
+**Support Email**: support@postworldparadox.com
+
+**For business inquiries only**: business@postworldparadox.com
