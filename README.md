@@ -71,7 +71,7 @@ We welcome contributions from the community to help make Postworld Paradox even 
 
 4. Follow the coding guidelines and best practices for Unreal Engine 5 development.
 
-5. When your contribution is ready, submit a pull request (PR) to the `main` branch of this repository. Be sure to include a detailed description of your changes.
+5. When your contribution is ready, submit a pull request (PR) to the `experimental` branch of this repository. Be sure to include a detailed description of your changes.
 
 6. Your PR will be reviewed by project maintainers, and any necessary feedback will be provided.
 
