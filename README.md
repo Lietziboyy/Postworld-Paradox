@@ -1,6 +1,6 @@
 # Postworld Paradox - Unreal Engine 5
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](screenshot.jpg)
 
 Welcome to the Postworld Paradox GitHub repository! This project is a postapocalyptic survival game created using Unreal Engine 5. In Postworld Paradox, players will navigate a harsh and unforgiving world, scavenging for resources, building shelter, and battling hostile creatures and other survivors in a bid for survival. This README file serves as your guide to understanding, setting up, and contributing to this project.
 
@@ -71,7 +71,7 @@ We welcome contributions from the community to help make Postworld Paradox even 
 
 4. Follow the coding guidelines and best practices for Unreal Engine 5 development.
 
-5. When your contribution is ready, submit a pull request (PR) to the `main` branch of this repository. Be sure to include a detailed description of your changes.
+5. When your contribution is ready, submit a pull request (PR) to the `experimental` branch of this repository. Be sure to include a detailed description of your changes.
 
 6. Your PR will be reviewed by project maintainers, and any necessary feedback will be provided.
 
@@ -88,10 +88,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Thank you for your interest in Postworld Paradox! We look forward to your contributions and hope you enjoy working on this exciting postapocalyptic adventure. If you have any questions or need assistance, feel free to reach out to us in the GitHub repository's [Issues](https://github.com/Lietziboyy/postworld-paradox/issues) section. Happy gaming!
 
 ## Contact
-If you have an issue with the game and were not responding on github, contact us on discord @skycrafter10 @lietziboy
+If you have an issue with the game and were not responding on github, contact us on discord
+@skycrafter10 @lietziboy
 
 --
 
 **Support Email**: support@postworldparadox.com
-
-**For business inquiries only**: business@postworldparadox.com
