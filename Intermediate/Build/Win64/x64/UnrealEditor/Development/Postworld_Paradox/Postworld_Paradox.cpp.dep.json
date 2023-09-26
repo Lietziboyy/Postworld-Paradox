@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\micha\\documents\\unreal projects\\testing 5.3\\source\\postworld_paradox\\postworld_paradox.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\micha\\documents\\unreal projects\\testing 5.3\\intermediate\\build\\win64\\x64\\postworld_paradoxeditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\micha\\documents\\unreal projects\\testing 5.3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\postworld_paradox\\definitions.postworld_paradox.h",
+            "c:\\users\\micha\\documents\\unreal projects\\testing 5.3\\source\\postworld_paradox\\postworld_paradox.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

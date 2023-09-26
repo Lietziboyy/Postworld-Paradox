@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Postworld_Paradox",
+			"Path": "..\\Source\\Postworld_Paradox.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Postworld_ParadoxEditor",
+			"Path": "..\\Source\\Postworld_ParadoxEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

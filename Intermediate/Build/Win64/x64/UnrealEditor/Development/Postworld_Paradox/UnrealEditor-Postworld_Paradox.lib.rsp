@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Postworld_Paradox.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\micha\Documents\Unreal Projects\Testing 5.3\Intermediate\Build\Win64\x64\Postworld_ParadoxEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_0.h.obj"
+"C:\Users\micha\Documents\Unreal Projects\Testing 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Postworld_Paradox\Postworld_Paradox.cpp.obj"
+"C:\Users\micha\Documents\Unreal Projects\Testing 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Postworld_Paradox\PostworldParadox.cpp.obj"
+"C:\Users\micha\Documents\Unreal Projects\Testing 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Postworld_Paradox\Default.rc2.res"
+/OUT:"C:\Users\micha\Documents\Unreal Projects\Testing 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Postworld_Paradox\UnrealEditor-Postworld_Paradox.lib"
