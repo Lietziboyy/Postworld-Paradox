@@ -1,6 +1,6 @@
 # Postworld Paradox - Unreal Engine 5
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](screenshot.jpg)
 
 Welcome to the Postworld Paradox GitHub repository! This project is a postapocalyptic survival game created using Unreal Engine 5. In Postworld Paradox, players will navigate a harsh and unforgiving world, scavenging for resources, building shelter, and battling hostile creatures and other survivors in a bid for survival. This README file serves as your guide to understanding, setting up, and contributing to this project.
 
